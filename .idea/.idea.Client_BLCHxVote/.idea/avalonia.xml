@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/App.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/AuthRepeatView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/AuthStartView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/MainView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/MainWindow.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/VotingAfterView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/VotingResultView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+        <entry key="Client_BLCHxVote/Client_BLCHxVote/Views/VotingStartView.axaml" value="Client_BLCHxVote/Client_BLCHxVote.Desktop/Client_BLCHxVote.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
